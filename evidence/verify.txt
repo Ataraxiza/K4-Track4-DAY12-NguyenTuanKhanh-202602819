@@ -26,8 +26,7 @@
 [PASS] agents: calibrated IDM driver and both rear-vehicle worlds present
 [PASS] gate: a decision for every candidate
 [PASS] fix.json agrees with gate.json on PercMLP+
-[FAIL] unit tests: Ran 1 test in 0.000s / FAILED (errors=1)
-[INFO] failing tests: test_lab12
+[PASS] unit tests: Ran 25 tests in 0.920s / OK
 [PASS] REPORT.md has an MSSV (202602819)
 [PASS] MSSV in REPORT.md equals the student id used for the run
 [PASS] REPORT.md: 'Họ và tên' is filled
@@ -50,9 +49,9 @@
 [PASS] Câu 8: answered (1011 characters)
 [PASS] Câu 8: quotes numbers from your evidence (6 numbers found)
 [PASS] REPORT.md: the results table is filled
-[PASS] git: 5 commits of yours (>= 5 expected, spread over the steps)
+[PASS] git: 6 commits of yours (>= 5 expected, spread over the steps)
 [PASS] git: no raw data or work/ files are tracked
 [PASS] git: evidence/*.json is committed
 [PASS] git: REPORT.md is committed
-[PASS] git: no uncommitted changes (commit and push before submitting)
-56 passed, 0 warnings, 1 FAILED
+[WARN] git: no uncommitted changes (commit and push before submitting)
+55 passed, 1 warnings, 0 FAILED
